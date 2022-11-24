@@ -4,7 +4,7 @@
 
 ## 🔗 LINK
 
-[MinJunKimKR 님의 154](https://github.com/MinJunKimKR/154Algoritm-5weeks)를 보고 실천해보는 공부
+[MinJunKimKR 님의 154Algoritm-5weeks](https://github.com/MinJunKimKR/154Algoritm-5weeks)를 보고 실천해보는 공부
 
 ## 진행도
 
